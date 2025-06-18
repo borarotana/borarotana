@@ -15,14 +15,6 @@ I'm currently learning **penetration testing**, **web development**, and buildin
 
 ---
 
-## 🧰 Tools & Tech I Use
-
-- Languages: `HTML`, `CSS`, `JavaScript`, `Python`
-- Tools: `Git`, `GitHub`, `VS Code`, `Burp Suite`, `Kali Linux`
-- Interests: `Pentesting`, `Encryption`, `Linux`, `Networking`
-
----
-
 ## 🛠️ Projects
 
 - 🔗 [My First Website]([https://github.com/borarotana/roadmap-for-learnweb/learnweb](https://github.com/borarotana/roadmap-for-learnweb/tree/Learn-Web-Front-End-My_Project/LearnWeb))  
