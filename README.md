@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey, I'm Rotana
 
-<!--
-**borarotana/borarotana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a student passionate about **space, physics, cybersecurity, and technology**.  
+I'm currently learning **penetration testing**, **web development**, and building my skills in **science and engineering**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+- 📚 Exploring physics and aerospace engineering  
+- 💻 Learning web development (HTML, CSS, JavaScript)  
+- 🔐 Interested in ethical hacking & cybersecurity  
+- 🌌 Obsessed with space exploration and future tech  
+- 🎒 Just getting started — always learning something new  
+
+---
+
+## 🧰 Tools & Tech I Use
+
+- Languages: `HTML`, `CSS`, `JavaScript`, `Python`
+- Tools: `Git`, `GitHub`, `VS Code`, `Burp Suite`, `Kali Linux`
+- Interests: `Pentesting`, `Encryption`, `Linux`, `Networking`
+
+---
+
+## 🛠️ Projects
+
+- 🔗 [My First Website](https://github.com/borarotana/roadmap-for-learnweb/learnweb)  
+
+---
+
+## 📫 Contact
+
+- Email: [dev.rotana@gmail.com](mailto:dev.rotana@gmail.com)
+- GitHub: [github.com/borarotana](https://github.com/borarotana)
+
+---
+
+> “Don’t wait for the future — build it.”
+
