@@ -16,8 +16,7 @@ I'm currently learning **penetration testing**, **web development**, and buildin
 ---
 
 ## 🛠️ Projects
-- 🔗 [First Web Project](https://github.com/borarotana/roadmap-for-learnweb/tree/Learn-Web-Front-End-My_Project/Personal_Portfolio_Web)
-- 🔗 [Calculator Project](https://github.com/borarotana/roadmap-for-learnweb/tree/Learn-Web-Front-End-My_Project/Calculator%20)
+- 🔗 [Personal Web Project](https://borarotana.github.io/roadmap-for-learnweb/))
 
 ---
 
