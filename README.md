@@ -7,4 +7,4 @@ I'm currently learning **penetration testing**, **web development**, and buildin
 
 ## 🛠️ Projects
 
-- 🔗 [Personal Web Project](https://borarotana.github.io/roadmap-for-learnweb/)
+- 🔗 [Personal Web Project](https://borarotana.github.io/roadmap-for-frontend/)
