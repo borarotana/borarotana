@@ -15,7 +15,7 @@
 <br>
 
 
-### ℹ️ About Me
+### About Me
 |🏢 I am a **Software Engineer**.|
 | :--- |
 |⚡ I can work on your project even if it was small or huge project.|
@@ -26,7 +26,7 @@
 <br>
 
 
-### 🎯 &nbsp;My Skills
+### &nbsp;My Skills
 | 💻 Languages & Frameworks |
 | :--- |
 | <img src="https://skillicons.dev/icons?i=py,java,php,kotlin,mysql,c,ruby,cs,cpp,html,css,scala,swift,go,vjavascript" />|
@@ -57,7 +57,7 @@ fun main() {
 <br>
 
 
-### 📩 Let's Talk:
+### Let's Talk:
 <a href="https://www.facebook.com/borarotanaa" target="_blank"><img src="https://img.shields.io/badge/-Ponlu%20Rotana-0077B5?style=for-the-badge&logo=Facebook"/></a>
 <a href="https://www.linkedin.com/in/borarotana" target="_blank"><img src="https://img.shields.io/badge/-Bora%20Rotana-0077B5?style=for-the-badge&logo=Linkedin"/></a>
 <a href="mailto:dev.rotana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-dev.rotana@gmail.com-0077B5?style=for-the-badge&logo=Gmail"/></a>
@@ -66,7 +66,7 @@ fun main() {
 <br>
 
 
-## 🎖️ My Statistics:
+## My Statistics:
 <h3>Coding Time:</h3>
 <img src="https://encept-github-status.vercel.app/api/wakatime?username=@borarotana&theme=transparent" alt="Rotana's WakaTime stats" />
 
@@ -87,7 +87,7 @@ fun main() {
 <br>
 
 
-### ✨ Random Quote:
+### Random Quote:
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming?border=true">
 </a>
