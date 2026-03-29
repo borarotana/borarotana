@@ -16,9 +16,8 @@
 
 
 ### ℹ️ About Me
-|🏢 I'm an **Software Engineer**.|
+|🏢 I am a **Software Engineer**.|
 | :--- |
-|💬 Ask me about my experience.|
 |⚡ I can work on your project even if it was small or huge project.|
 
 > Experienced in modern web development using frameworks such as Angular and React. Strong knowledge of object-oriented programming, data structures, algorithms, and design patterns. Skilled in building responsive and mobile-friendly web applications. Experienced working with distributed development teams and developing web systems across multiple operating systems and browsers, including legacy environments. Proficient with CSS preprocessors (SASS/SCSS) and modern build tools such as Webpack, Grunt, and Gulp.
