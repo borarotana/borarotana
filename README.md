@@ -16,7 +16,7 @@
 <br>
 
 
-### ℹ️ About Me (<a href="br.pdf" target="_blank">View My CV</a>)
+### ℹ️ About Me
 |🏢 I'm an **Software Engineer**.|
 | :--- |
 |💬 Ask me about my experience.|
