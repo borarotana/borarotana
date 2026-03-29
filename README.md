@@ -1,30 +1,95 @@
-# 💫 About Me:
-👋 Hello, I'm Rotana</br>
-    I'm a student interested in **space, physics, cybersecurity, and technology**.  <br>I'm currently learning **penetration testing**, **web development**, and building my skills in **science and engineering**.<br>
+<h3 align="center">
+  <a href="https://komarev.com/ghpvc/?username=borarotana"><img src="https://komarev.com/ghpvc/?username=borarotana"></a>
+  <a href="https://wakatime.com/@df82cdc7-8b74-4d75-927d-3b49bad083c8"><img src="https://wakatime.com/badge/user/df82cdc7-8b74-4d75-927d-3b49bad083c8.svg" alt="Total time coded since Mar 28 2026" /></a>
+  
 
 
-## 🌐 Contact:
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/bOrARoTanA)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.rotana@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/6EX8mpx2)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://borarotana.github.io/roadmap-for-frontend/)
+  Welcome to Bora Rotana's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-## 💻 Tech Stack:
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=Figma&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=Adobe%20Photoshop&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=Github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=Git&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=CSS3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=HTML5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=JavaScript&logoColor=%23F7DF1E) 
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=Vuedotjs&logoColor=%234FC08D) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=Numpy&logoColor=white)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=500&height=45&lines=Software+Engineer" alt="Typing SVG" /></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=borarotana&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+
+### ℹ️ About Me (<a href="br.pdf" target="_blank">View My CV</a>)
+|🏢 I'm an **Software Engineer**.|
+| :--- |
+|💬 Ask me about my experience.|
+|⚡ I can work on your project even if it was small or huge project.|
+
+> I'm a Senior Software Engineer with over 3 years of experience building scalable web applications and distributed systems. Currently leading engineering initiatives at a Fortune 500 company, I specialize in full-stack development, cloud architecture, and team leadership.
+
+
+<br>
+
+
+### 🎯 &nbsp;My Skills
+| 💻 Languages & Frameworks |
+| :--- |
+| <img src="https://skillicons.dev/icons?i=py,java,php,kotlin,mysql,c,ruby,cs,cpp,html,css,scala,swift,go,vjavascript" />|
+| 🛠️ Tools |
+| <img src="https://skillicons.dev/icons?i=androidstudio,idea,phpstorm,webstorm,pycharm,vscode,github,git,md,linkedin,discord,bots,postman,windows,linux,powershell,stackoverflow,notion,graphql,figma&perline=12" />|
+
+
+<br>
+
+
+## My Lifecycle
+<img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" width="250" height="250" align="right"/>
+
+```kotlin
+fun main() {
+    while (Alive) {
+        code()
+		fixBugs()
+		lovePython()
+        sleep()
+        repeat()
+    }
+}
+
+```
+
+
+<br>
+
+
+### 📩 Let's Talk:
+<a href="https://www.facebook.com/borarotanaa" target="_blank"><img src="https://img.shields.io/badge/-Ponlu%20Rotana-0077B5?style=for-the-badge&logo=Facebook"/></a>
+<a href="https://www.linkedin.com/in/borarotana" target="_blank"><img src="https://img.shields.io/badge/-Bora%20Rotana-0077B5?style=for-the-badge&logo=Linkedin"/></a>
+<a href="mailto:dev.rotana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-dev.rotana@gmail.com-0077B5?style=for-the-badge&logo=Gmail"/></a>
+
+
+<br>
+
+
+## 🎖️ My Statistics:
+<h3>Coding Time:</h3>
+<img src="https://encept-github-status.vercel.app/api/wakatime?username=@borarotana&theme=transparent" alt="Rotana's WakaTime stats" />
+
+<details><summary>Show All Statistics</summary>
+ 	<h3>Top Languages:</h3>
+	<img src="https://github-status.vercel.app/api/top-langs?username=borarotana&langs_count=6&show_icons=true&locale=en&theme=transparent&layout=donut" alt="Rotana" />
+	<br><br>
+ 	<h3>Github Stats:</h3>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Rotana's Github Stats" src="https://github-status.vercel.app/api?username=borarotana&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
+	</a>
+	<br><br>
+ 	<h3>My Streak:</h3>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=borarotana&theme=transparent" alt="Rotana" />
+</details>
+
+
+<br>
+
+
+### ✨ Random Quote:
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming?border=true">
+</a>
