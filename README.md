@@ -31,7 +31,7 @@
 | :--- |
 | <img src="https://skillicons.dev/icons?i=py,java,php,kotlin,mysql,c,ruby,cs,cpp,html,css,scala,swift,go,vjavascript" />|
 | 🛠️ Tools |
-| <img src="https://skillicons.dev/icons?i=androidstudio,idea,phpstorm,webstorm,pycharm,vscode,github,git,md,linkedin,discord,bots,postman,windows,linux,powershell,stackoverflow,notion,graphql,figma&perline=12" />|
+| <img src="https://skillicons.dev/icons?i=androidstudio,idea,phpstorm,webstorm,pycharm,vscode,github,git,md,linkedin,discord,bots,postman,windows,linux,ubuntu,arch,kali,powershell,stackoverflow,notion,graphql,figma,&perline=12" />|
 
 
 <br>
